@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/promise27-coder/promise27-coder/output/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/promise27-coder/promise27-coder/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
 </p>
 
 ---
