@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Promis Vora</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+%26+Analytics;FinTech+Enthusiast+%26+Analysis;Building+Data+Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+%26+Analytics;FinTech+Enthusiast+%26+Trader;Building+Data+Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,10 +17,10 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** B.Tech Computer Engineering Student
-- 💡 **Interests:** Deeply passionate about Python, Data Science, Financial Technology (FinTech) and AI Development 
-- 📈 **Financial Markets:** Active Forex & Index - analyzing data & charts , Market Liquidity, and Macro Economics 
+- 💡 **Interests:** Deeply passionate about Python, Data Science, Financial Technology (FinTech) and AI Development
+- 📈 **Financial Markets:** Active Forex & Index - analyzing data & charts, Market Liquidity, and Macro Economics
 - 🌱 **Data Career Path:** Currently Deeply learning Data Analytics & Data Engineering concepts (Data Pipelines, ETL processes, and Data Modeling) to build industry-ready skills
-- 🔥 **Goal:** Building automation tools and scalable data-driven web applications and prototping financial solutions  
+- 🔥 **Goal:** Building automation tools and scalable data-driven web applications and prototyping financial solutions
 
 ---
 
@@ -66,7 +66,7 @@
 ## 🏆 Achievements & GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=promise27-coder&theme=radical&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=promise27-coder&theme=tokyonight" alt="GitHub Trophies" />
 </p>
 
 ### 📈 Contribution Graph
