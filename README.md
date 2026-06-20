@@ -17,10 +17,10 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** B.Tech Computer Engineering Student
-- 💡 **Interests:** Merging Tech with Finance — Data Science, AI, and Financial Technology (FinTech)
-- 📈 **Financial Markets:** Active Forex & Index Trader with a deep understanding of Technical Analysis, Market Liquidity, and Macro Economics
-- 🌱 **Data Career Path:** Currently mastering Data Analytics & Data Engineering concepts (Data Pipelines, ETL processes, and Data Modeling) to build industry-ready skills
-- 🔥 **Goal:** Building smart financial automation tools and scalable data-driven web applications
+- 💡 **Interests:** Deeply passionate about Python, Data Science, Financial Technology (FinTech) and AI Development 
+- 📈 **Financial Markets:** Active Forex & Index - analyzing data & charts , Market Liquidity, and Macro Economics 
+- 🌱 **Data Career Path:** Currently Deeply learning Data Analytics & Data Engineering concepts (Data Pipelines, ETL processes, and Data Modeling) to build industry-ready skills
+- 🔥 **Goal:** Building automation tools and scalable data-driven web applications and prototping financial solutions  
 
 ---
 
