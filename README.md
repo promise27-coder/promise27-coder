@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Promis Vora</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+%26+Analytics;FinTech+Enthusiast+%26+Trader;Building+Data+Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+%26+Analytics;FinTech+Enthusiast+%26+Analysis;Building+Data+Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
