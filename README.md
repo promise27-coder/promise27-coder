@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Promis Vora</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+Learner;Forex+%26+Index+Trader;Building+Smart+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Computer+Engineering+Student;Data+Science+%26+Analytics;FinTech+Enthusiast+%26+Trader;Building+Data+Driven+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,23 +17,23 @@
 ## 🚀 About Me
 
 - 🎓 **Education:** B.Tech Computer Engineering Student
-- 💡 **Interests:** Deeply passionate about Python, Data Science, and AI Development
-- 📈 **Trading:** Active Forex & Index Trader — analyzing charts and market liquidity
-- 🌱 **Currently Learning:** Advanced DSA, Machine Learning models, and Financial Automation
-- 🔥 **Goal:** Building production-ready web applications and smart tech solutions
+- 💡 **Interests:** Merging Tech with Finance — Data Science, AI, and Financial Technology (FinTech)
+- 📈 **Financial Markets:** Active Forex & Index Trader with a deep understanding of Technical Analysis, Market Liquidity, and Macro Economics
+- 🌱 **Data Career Path:** Currently mastering Data Analytics & Data Engineering concepts (Data Pipelines, ETL processes, and Data Modeling) to build industry-ready skills
+- 🔥 **Goal:** Building smart financial automation tools and scalable data-driven web applications
 
 ---
 
 ## 🛠 Skills & Tech Stack
 
-### 💻 Core Languages
+### 📊 Data & Backend Engineering
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,django,c" alt="Data and Backend" />
 </p>
 
-### 🌐 Web Development & Databases
+### 🌐 Frontend & Core Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,django,mysql" alt="Web and DB" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" alt="Languages and Frontend" />
 </p>
 
 ### 🔧 Tools & Platforms
@@ -63,7 +63,7 @@
 
 ---
 
-## 🏆 Achievements & Activity
+## 🏆 Achievements & GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=promise27-coder&theme=radical&column=4" />
